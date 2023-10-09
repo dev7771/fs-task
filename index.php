@@ -4,7 +4,7 @@ require_once './vendor/autoload.php';
 use App\Database\DB;
 
 class Bootstrap {
-
+ 
 
     public function __construct() {
 
